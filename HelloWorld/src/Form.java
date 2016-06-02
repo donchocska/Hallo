@@ -47,7 +47,7 @@ public class Form extends JFrame {
 
 		String txt = text.getText();
 		return txt;
-	}
+	}//end method Text
 
 	private void Clear() {
 		text.setText(null);
