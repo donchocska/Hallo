@@ -41,7 +41,7 @@ public class Form extends JFrame {
 				}
 			}
 		});
-	}
+	}//end constructor 
 
 	private String Text(String s) {
 
